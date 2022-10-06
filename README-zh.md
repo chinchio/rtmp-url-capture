@@ -8,5 +8,5 @@
 ```bash
 git clone https://github.com/chinchio/rtmp-url-capture
 cd ./rtmp-url-capture
-pip install requirements.txt
+pip install -r requirements.txt
 ```
