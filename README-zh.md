@@ -10,3 +10,8 @@ git clone https://github.com/chinchio/rtmp-url-capture
 cd ./rtmp-url-capture
 pip install -r requirements.txt
 ```
+
+# 使用
+```bash
+python ./simple-capture-rtmp-url.py
+```
