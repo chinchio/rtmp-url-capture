@@ -1,4 +1,4 @@
-[正體中文](.\README-zh)
+[正體中文](./README-zh.md)
 # rtmp-url-capture
 Capture Application RTMP URL
 
