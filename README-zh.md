@@ -1,18 +1,17 @@
-[正體中文](./README-zh.md)
 # rtmp-url-capture
-Capture Application RTMP URL
+截取RTMP的URL
 
-# Introduction
-This repository is using to store scripts which use pyshark to capture rtmp url.
+# 簡介
+這個repo只是存放利用pyshark去截取特定NIC的RTMP URL的script，因為script本身只有數行程式碼，非常方便閱讀理解。
 
-# Installation
+# 安裝
 ```bash
 git clone https://github.com/chinchio/rtmp-url-capture
 cd ./rtmp-url-capture
 pip install -r requirements.txt
 ```
 
-# Usage
+# 使用
 ```bash
 python ./simple-capture-rtmp-url.py
 ```
